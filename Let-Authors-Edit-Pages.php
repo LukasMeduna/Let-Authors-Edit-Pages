@@ -2,7 +2,7 @@
 /*
 Plugin Name: Let Authors Edit Pages
 Plugin URI: https://github.com/LukasMeduna
-Description: Very simple plugin that allows authors to edit pages, not only  
+Description: A very simple plugin that allows authors to edit their pages, not only posts 
 Version: 1.0
 Author: Lukáš Meduna
 Author URI: https://github.com/LukasMeduna
